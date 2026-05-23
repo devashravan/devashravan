@@ -1,7 +1,5 @@
 ### Hi, I am Shravan 👋
 
-I'm a sophomore at IIT Roorkee, driven by a passion for making life simpler, machines smarter, and technology more exciting.
-
 <!--
 1. Title & Tagline – Project name and a one-liner describing what it does.
 2. Introduction – Brief summary with keywords to improve discoverability.
